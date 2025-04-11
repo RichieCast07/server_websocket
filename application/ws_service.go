@@ -2,7 +2,7 @@ package application
 
 import (
 	"net/http"
-	"websocket/WebSocketNew/domain"
+	"websocket/domain"
 
 	"github.com/gorilla/websocket"
 )

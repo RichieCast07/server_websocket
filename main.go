@@ -2,7 +2,7 @@ package main
 
 import (
 	"os"
-	infrastructure "websocket/WebSocketNew/infraestructure"
+	infrastructure "websocket/infraestructure"
 
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"

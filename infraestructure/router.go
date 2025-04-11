@@ -1,7 +1,7 @@
 package infrastructure
 
 import (
-	"websocket/WebSocketNew/application"
+	"websocket/application"
 
 	"github.com/gin-gonic/gin"
 )
